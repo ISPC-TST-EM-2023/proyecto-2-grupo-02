@@ -1,48 +1,48 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/86580762/237179645-e4bb6ff9-0bb5-441d-a98f-a4a6a53577e6.jpg">
 
-# Tecnicatura en Telecomunicaciones
+# **Tecnicatura en Telecomunicaciones**
 
-# Electronica Microcontrolada
+# **Electronica Microcontrolada**
 
-# Nombre del grupo: Grupo N° 2 - Proyecto 2
+# **Nombre del grupo: Grupo N° 2 - Proyecto 2**
 
-# Integrantes: 
+# **Integrantes:** 
 
 ## Scrum Master
 
-* <a href="https://github.com/emma22xt">Luis Emanuel Gomez</a>
+✅ <a href="https://github.com/emma22xt">Luis Emanuel Gomez</a>
 
 ## Product Owner
 
-* <a href="https://github.com/MariaBelen1">Maria Belen Colado</a>
+✅ <a href="https://github.com/MariaBelen1">Maria Belen Colado</a>
 
 ## Scrum Team
 
-* <a href="https://github.com/Maxg8704">Jose Maximiliano Gimenez</a>
+◼ <a href="https://github.com/Maxg8704">Jose Maximiliano Gimenez</a>
 
-* <a href="https://github.com/NahuelDe">Nahuel Deco</a>
+◼ <a href="https://github.com/NahuelDe">Nahuel Deco</a>
 
-* <a href="https://github.com/MrGuz2022">Miguel Gaspar Guzman</a> 
+◼ <a href="https://github.com/MrGuz2022">Miguel Gaspar Guzman</a> 
 
-* <a href="https://github.com/suarezignacio">Ignacio Suarez</a> 
+◼ <a href="https://github.com/suarezignacio">Ignacio Suarez</a> 
 
-* <a href="https://github.com/RiosLionel">Lionel Rios</a> 
+◼ <a href="https://github.com/RiosLionel">Lionel Rios</a> 
 
-* <a href="https://github.com/GabiChavez23">Gabriel Chavez</a> 
+◼ <a href="https://github.com/GabiChavez23">Gabriel Chavez</a> 
 
-* <a href="https://github.com/777dem27med03-125">Dardo Molina</a> 
+◼ <a href="https://github.com/777dem27med03-125">Dardo Molina</a> 
 
-* <a href="https://github.com/Leantrivellini">Leandro Trivellini</a>
+◼ <a href="https://github.com/Leantrivellini">Leandro Trivellini</a>
 
-* <a href="https://github.com/MicaelaVilchez">María Micaela Vilchez Cabrera</a>
+◼ <a href="https://github.com/MicaelaVilchez">María Micaela Vilchez Cabrera</a>
 
-# Docente: 
+## Docente: 
 
-* <a href="https://github.com/Gona79">Cristian Gonzalo Vera</a> Profesor en el Instituto Superior Politecnico de Cordoba 
+✅ <a href="https://github.com/Gona79">Cristian Gonzalo Vera</a> Profesor en el Instituto Superior Politecnico de Cordoba 
 
-# Video Presentacion Grupal
+## Video Presentacion Grupal
 
-* 
+🎥  
 
 # Bienvenido al repositorio del proyecto #2  
 El mismo debe respetar la siguiente estructura de carpetas:   
