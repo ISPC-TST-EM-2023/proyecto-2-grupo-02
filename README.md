@@ -42,7 +42,7 @@
 
 ## Video Presentacion Grupal
 
-🎥  
+🎥 <a href="https://drive.google.com/file/d/1jj51DS9qsCcscUAEgkHa_6T9LQoBLQYc/view?usp=sharing">Presentacion Grupo N°2</a>
 
 # Bienvenido al repositorio del proyecto #2  
 El mismo debe respetar la siguiente estructura de carpetas:   
