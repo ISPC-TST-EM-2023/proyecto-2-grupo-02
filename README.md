@@ -44,6 +44,8 @@
 
 🎥 <a href="https://drive.google.com/file/d/1jj51DS9qsCcscUAEgkHa_6T9LQoBLQYc/view?usp=sharing">Presentacion Grupo N°2 - Ejercicio 1</a>
 
+🎥 <a href="https://drive.google.com/file/d/1Jpb7NdqqYoly64bLlL8XrurcKBBCA25Q/view">Presentacion Grupo N°2 - Ejercicio 2</a>
+
 # Bienvenido al repositorio del proyecto #2  
 El mismo debe respetar la siguiente estructura de carpetas:   
 
